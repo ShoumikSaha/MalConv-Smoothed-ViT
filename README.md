@@ -1,5 +1,7 @@
-# MalConv-Updated
+# MalConv-Smoothed ViT
 This version of MalConv is the most updated one using Tensorflow v0.2
+An universal FGSM attack has been deployed on the model
+As a defense Smoothed Vision Transformer has been used
 
 # Requirements
 Python 3.10
